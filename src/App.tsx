@@ -104,6 +104,11 @@ function App() {
         )}
 
       </div>
+      
+      {/* Footer Contact Info */}
+      <div className="fixed bottom-4 left-4 z-50 text-xs text-slate-500 bg-white/60 backdrop-blur-md px-3 py-2 rounded-lg border border-slate-200 shadow-sm max-w-[250px] sm:max-w-none">
+        If there are any issues, please contact Senior Web Developer Immanuel
+      </div>
     </div>
   );
 }
